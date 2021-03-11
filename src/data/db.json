@@ -1,0 +1,73 @@
+{
+    "Product": [
+      {
+        "id": 1,
+        "name": "Montre",
+        "price": "71DH",
+        "subCategoryId": 101,
+        "categoryId": "montre",
+        "rate": 2.44,
+        "content": "1 pièce Montre à quartz à pointeur rond & 5 pièces Bracelet",
+        "review": 78,
+        "typeVariant": "D",
+        "colorVariant": "5",
+        "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/11/30/1606704751d0a359f5640b9e9dfd8fd7f654826c0f_thumbnail_600x.webp"
+      },
+      {
+        "id": 2,
+                "name": "Casquette",
+                "price": "99DH",
+                "subCategoryId": 101,
+                "category": "Casquette",
+                "rate": 2.18,
+                "content":"Casquette de baseball minimaliste",
+                "review": 67,
+                "typeVariant": "A",
+                "colorVariant": "4",
+                "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/12/16/160808693398ba924b020972d162932ce22e7c9a83_thumbnail_405x552.webp"
+      },
+      {
+        "id": 3,
+                "name": "Minus",
+                "price": 295,
+                "subcategory": 101,
+                "category":"montre",
+                "rate": 0.91,
+                "content": "Montre à quartz à cadran & 1 pièce Bracelet",
+                "review": 116,
+                "typeVariant": "E",
+                "colorVariant": "2",
+                "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/11/04/1604478866f798f098c5f90289487c7e302a941f24_thumbnail_600x.webp"
+      },
+      {
+        "id": 4,
+        "name": "Ceinture",
+        "price": "60DH",
+        "subcategory": 101,
+        "category": "Ceinture",
+        "rate": 3.11,
+        "content": "4 pièces Ceinture skinny minimaliste",
+        "review": 78,
+        "typeVariant": "D",
+        "colorVariant": "3",
+        "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/09/14/160006122344f89bdda617cbd6f5acbdc9513d8d61_thumbnail_600x.webp",
+        "imag1Url":"https://img.ltwebstatic.com/images3_pi/2020/09/14/1600061226d8db6d5ea48ee7f2f4af6f804c39f0e0_thumbnail_600x.webp"
+      },
+      {
+        "id": 5,
+        "name": "Montre",
+        "price": "71DH",
+        "subcategory": 101,
+        "category": 1,
+        "rate": 2.44,
+        "content": "1 pièce Montre à quartz à pointeur rond & 5 pièces Bracelet",
+        "review": 78,
+        "typeVariant": "D",
+        "colorVariant": "5",
+        "imageUrl": "https://img.ltwebstatic.com/images3_pi/2020/11/30/1606704751d0a359f5640b9e9dfd8fd7f654826c0f_thumbnail_600x.webp"
+      }
+      
+     
+    ],
+    "types" : ["centure","montre","sac","lunettes","foulard","collier"]
+  }
